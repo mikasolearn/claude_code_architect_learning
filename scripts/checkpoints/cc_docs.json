@@ -1,0 +1,195 @@
+{
+  "completed_files": {
+    "knowledge/claude-code-docs\\README.md": {
+      "hash": "677d60e0adafa71cafd6097d80ba4e14",
+      "chunks": 8,
+      "ts": 1777717470.153217
+    },
+    "knowledge/claude-code-docs\\administration\\analytics.md": {
+      "hash": "2c901fdc37680f16666611709ab69c22",
+      "chunks": 17,
+      "ts": 1777717471.5438154
+    },
+    "knowledge/claude-code-docs\\administration\\costs.md": {
+      "hash": "29b8839cc67c3cfe8dda425cadcb24ea",
+      "chunks": 26,
+      "ts": 1777717473.786821
+    },
+    "knowledge/claude-code-docs\\administration\\data-usage.md": {
+      "hash": "5466bb3d5455cbb09472e6467189bd37",
+      "chunks": 24,
+      "ts": 1777717475.6994228
+    },
+    "knowledge/claude-code-docs\\administration\\iam.md": {
+      "hash": "f05bb1d8d4764db46894d7cde4385c11",
+      "chunks": 16,
+      "ts": 1777717477.1249304
+    },
+    "knowledge/claude-code-docs\\administration\\monitoring-usage.md": {
+      "hash": "c24bbb647de95955cb834f5aa805748b",
+      "chunks": 103,
+      "ts": 1777717480.5685613
+    },
+    "knowledge/claude-code-docs\\administration\\output-styles-admin.md": {
+      "hash": "ac7ff5fc76cd02c7f0c458040b211ab8",
+      "chunks": 8,
+      "ts": 1777717480.9593027
+    },
+    "knowledge/claude-code-docs\\administration\\security.md": {
+      "hash": "5628601ac92eec25e0e9597b3948b7c5",
+      "chunks": 17,
+      "ts": 1777717481.5472233
+    },
+    "knowledge/claude-code-docs\\administration\\setup.md": {
+      "hash": "4e07d97447351bb630bde628cbee3cfe",
+      "chunks": 36,
+      "ts": 1777717482.7024703
+    },
+    "knowledge/claude-code-docs\\build\\github-actions.md": {
+      "hash": "8efd5f68deec8fa3241b7c1b889d638a",
+      "chunks": 32,
+      "ts": 1777717483.7294803
+    },
+    "knowledge/claude-code-docs\\build\\hooks-guide.md": {
+      "hash": "e1f6f87b3b3c8f315ff73f0e2cda5b78",
+      "chunks": 77,
+      "ts": 1777717486.4607964
+    },
+    "knowledge/claude-code-docs\\build\\mcp.md": {
+      "hash": "965bb922638868580324ed024d07edc8",
+      "chunks": 106,
+      "ts": 1777717491.3069766
+    },
+    "knowledge/claude-code-docs\\build\\output-styles.md": {
+      "hash": "3a75cc487efe599f256e7c0bed0a5d02",
+      "chunks": 9,
+      "ts": 1777717491.864015
+    },
+    "knowledge/claude-code-docs\\build\\sub-agents.md": {
+      "hash": "1c623d2fed4d5a51a666ffc9afea38ff",
+      "chunks": 97,
+      "ts": 1777717496.728411
+    },
+    "knowledge/claude-code-docs\\build\\troubleshooting.md": {
+      "hash": "743696dbda73459b7d8199f6adb70296",
+      "chunks": 11,
+      "ts": 1777717497.821465
+    },
+    "knowledge/claude-code-docs\\configuration\\ide-integrations.md": {
+      "hash": "10355cb783eaf37c71f7c707f260d09a",
+      "chunks": 47,
+      "ts": 1777717501.1926374
+    },
+    "knowledge/claude-code-docs\\configuration\\memory.md": {
+      "hash": "75d6a4fa9675abb19d1489dc9e46f393",
+      "chunks": 47,
+      "ts": 1777717504.5889769
+    },
+    "knowledge/claude-code-docs\\configuration\\model-config.md": {
+      "hash": "90d34ff7d6df4f8f54f2688600c6d891",
+      "chunks": 51,
+      "ts": 1777717508.2181191
+    },
+    "knowledge/claude-code-docs\\configuration\\settings.md": {
+      "hash": "82d9b1c0c8fe7fbffec5f4480d315e0d",
+      "chunks": 110,
+      "ts": 1777717517.4594834
+    },
+    "knowledge/claude-code-docs\\configuration\\statusline.md": {
+      "hash": "fa9de65c2be7ceb79c42f84ce4a2d5fa",
+      "chunks": 51,
+      "ts": 1777717521.2479377
+    },
+    "knowledge/claude-code-docs\\configuration\\terminal-config.md": {
+      "hash": "5f82dcc2b456108d7dfa8fca85fa5ac8",
+      "chunks": 34,
+      "ts": 1777717523.9180303
+    },
+    "knowledge/claude-code-docs\\deployment\\amazon-bedrock.md": {
+      "hash": "ecc0b3e30451e1f5ef383f7a25f40041",
+      "chunks": 41,
+      "ts": 1777717527.101555
+    },
+    "knowledge/claude-code-docs\\deployment\\corporate-proxy.md": {
+      "hash": "acc7a8f5053839038a80024cb517aacd",
+      "chunks": 11,
+      "ts": 1777717528.170964
+    },
+    "knowledge/claude-code-docs\\deployment\\devcontainer.md": {
+      "hash": "8474db8fa03cb197110885f6ba8fda25",
+      "chunks": 33,
+      "ts": 1777717531.090183
+    },
+    "knowledge/claude-code-docs\\deployment\\google-vertex-ai.md": {
+      "hash": "868c634493a77cdc04b6bdfd099a1374",
+      "chunks": 22,
+      "ts": 1777717533.0342443
+    },
+    "knowledge/claude-code-docs\\deployment\\llm-gateway.md": {
+      "hash": "49421b63ee2f3c2c9657b77d501ff3ce",
+      "chunks": 11,
+      "ts": 1777717534.0829353
+    },
+    "knowledge/claude-code-docs\\deployment\\overview.md": {
+      "hash": "080662ed247183bbbfed58093ecad706",
+      "chunks": 19,
+      "ts": 1777717535.64305
+    },
+    "knowledge/claude-code-docs\\getting-started\\common-workflows.md": {
+      "hash": "e33e21b39e3105cd6ba7008ea8b60364",
+      "chunks": 46,
+      "ts": 1777717538.6673083
+    },
+    "knowledge/claude-code-docs\\getting-started\\overview.md": {
+      "hash": "287c760c53436511c8e36a2ef5ea1476",
+      "chunks": 14,
+      "ts": 1777717539.9120412
+    },
+    "knowledge/claude-code-docs\\getting-started\\quickstart.md": {
+      "hash": "225a79beed074c541bf367bd5343dfbf",
+      "chunks": 12,
+      "ts": 1777717541.0562487
+    },
+    "knowledge/claude-code-docs\\reference\\cli-reference.md": {
+      "hash": "f1d822e427629f2157f725eaf792d8a3",
+      "chunks": 21,
+      "ts": 1777717542.785345
+    },
+    "knowledge/claude-code-docs\\reference\\hooks.md": {
+      "hash": "1f72bf34ca7133417af72b8170b9d8d5",
+      "chunks": 248,
+      "ts": 1777717555.7219281
+    },
+    "knowledge/claude-code-docs\\reference\\interactive-mode.md": {
+      "hash": "2007301e7328aea9f9d66f07e7efd8e3",
+      "chunks": 35,
+      "ts": 1777717557.3561907
+    },
+    "knowledge/claude-code-docs\\reference\\slash-commands.md": {
+      "hash": "c6177c2616da338bd71f6ee01ca7986e",
+      "chunks": 67,
+      "ts": 1777717560.6075583
+    },
+    "knowledge/claude-code-docs\\sdk\\sdk-headless.md": {
+      "hash": "d1e638bed6e6d23811055323a9eb0387",
+      "chunks": 13,
+      "ts": 1777717561.3879318
+    },
+    "knowledge/claude-code-docs\\sdk\\sdk-overview.md": {
+      "hash": "2f98fb8177455e10577e0d4bf20292a5",
+      "chunks": 13,
+      "ts": 1777717562.159229
+    },
+    "knowledge/claude-code-docs\\sdk\\sdk-python.md": {
+      "hash": "fb55a8b713da188e71ebb20c3d94cb7c",
+      "chunks": 197,
+      "ts": 1777717571.7164094
+    },
+    "knowledge/claude-code-docs\\sdk\\sdk-typescript.md": {
+      "hash": "25f2aea9a7eab52fb04e9c36763478b9",
+      "chunks": 154,
+      "ts": 1777717579.3358254
+    }
+  },
+  "failed_files": {}
+}
