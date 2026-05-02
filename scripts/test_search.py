@@ -1,7 +1,19 @@
-import chromadb
+from pathlib import Path
+import chromadb, glob, os, json, hashlib, time
 from chromadb.utils import embedding_functions
+from pypdf import PdfReader
+from langchain_text_splitters import RecursiveCharacterTextSplitter, MarkdownTextSplitter
+from tqdm import tqdm
 
-client = chromadb.PersistentClient(path="./vectordb")
+# ---------- Paths ----------
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+VECTORDB_PATH = PROJECT_ROOT / "vectordb"
+CHECKPOINT_DIR = PROJECT_ROOT / "checkpoints"
+KNOWLEDGE_DIR = PROJECT_ROOT / "knowledge"
+
+CHECKPOINT_DIR.mkdir(exist_ok=True)
+
+client = chromadb.PersistentClient(path=str(VECTORDB_PATH))
 embedder = embedding_functions.DefaultEmbeddingFunction()  
 coll = client.get_collection("cc_docs", embedding_function=embedder)
 
