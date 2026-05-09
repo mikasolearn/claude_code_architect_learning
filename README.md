@@ -1,18 +1,24 @@
 # claude_code_architect_learning
 a repo dedicated to honing ai agents orchestration skills to pass claude code architect exam
-Proposed Architecture   
+
+
+```markdown
+## Proposed Architecture
+
+​```text
                     ┌──────────────────────────────┐
                     │   COORDINATOR (Claude Code)  │
                     │   Routes by intent + tracks  │
                     │   weakness across domains    │
-                    └──────────────────────────────┘
-                                  │
-   ┌──────────┬──────────┬────────┼────────┬─────────────┬──────────┐
-   ▼          ▼          ▼        ▼        ▼             ▼          ▼
-┌──────┐ ┌────────┐ ┌────────┐ ┌──────┐ ┌────────┐ ┌──────────┐ ┌──────┐
-│Exam  │ │Scenario│ │Question│ │Domain│ │Question│ │Evaluator/│ │Drill │
-│Guide │ │Coach   │ │Bank    │ │Expert│ │Generator│ │Tutor    │ │Master│
-└──────┘ └────────┘ └────────┘ └──────┘ └────────┘ └──────────┘ └──────┘
+                    └───────────────┬──────────────┘
+                                    │
+        ┌──────────┬──────────┬─────┼─────┬───────────┬──────────┐
+        ▼          ▼          ▼     ▼     ▼           ▼          ▼
+   ┌────────┐ ┌────────┐ ┌────────┐ ┌──────┐ ┌──────────┐ ┌──────────┐ ┌────────┐
+   │  Exam  │ │Scenario│ │Question│ │Domain│ │ Question │ │Evaluator/│ │ Drill  │
+   │ Guide  │ │ Coach  │ │  Bank  │ │Expert│ │Generator │ │  Tutor   │ │ Master │
+   └────────┘ └────────┘ └────────┘ └──────┘ └──────────┘ └──────────┘ └────────┘
+​```
 
 Agents
 
